@@ -1,0 +1,168 @@
+{
+	data:[
+		{
+			id:1,
+			tipo:'incidente',
+			categoria:'Afectado por Lesiones'
+			nombreAfectado:'León Gomez',
+			edad:44,
+			ciudad:'Neiva',
+			tramo:4,
+			vehiculosAfectados:1,
+			fechaEvento:''
+		},
+		{
+			id:2,
+			tipo:'incidente',
+			categoria:'Afectado por Lesiones'
+			nombreAfectado:'Fernanda Jaimes',
+			edad:15,
+			ciudad:'Girardot',
+			tramo:12,
+			vehiculosAfectados:1
+		},
+		{
+			id:3,
+			tipo:'accidente',
+			categoria:'Afectado por Lesiones'
+			nombreAfectado:'Marco Nariño',
+			edad:22,
+			ciudad:'Aipe',
+			tramo:11,
+			vehiculosAfectados:1
+		},
+		{
+			id:4,
+			tipo:'accidente',
+			categoria:'Afectado por Lesiones'
+			nombreAfectado:'Juan Ortiz',
+			edad:24,
+			ciudad:'Neiva',
+			tramo:10,
+			vehiculosAfectados:1
+		},
+		{
+			id:5,
+			tipo:'incidente',
+			categoria:'Afectado por Lesiones'
+			nombreAfectado:'Jorge Echavarria',
+			edad:31,
+			ciudad:'Neiva',
+			tramo:9,
+			vehiculosAfectados:3,
+			fechaEvento:''
+		},
+		{
+			id:6,
+			tipo:'incidente',
+			categoria:'Afectado por Lesiones'
+			nombreAfectado:'Diana Martínez',
+			edad:16,
+			ciudad:'Neiva',
+			tramo:8,
+			vehiculosAfectados:2
+		},
+		{
+			id:7,
+			tipo:'accidente',
+			categoria:'Afectado por Lesiones'
+			nombreAfectado:'Carmelo Castellanos',
+			edad:52,
+			ciudad:'Neiva',
+			tramo:5,
+			vehiculosAfectados:1
+		},
+		{
+			id:8,
+			tipo:'accidente',
+			categoria:'Afectado por Lesiones'
+			nombreAfectado:'Miguel Santos',
+			edad:35,
+			ciudad:'Aipe',
+			tramo:4,
+			vehiculosAfectados:2
+		},
+		{
+			id:9,
+			tipo:'incidente',
+			categoria:'Afectado por Lesiones'
+			nombreAfectado:'Lorena Higuera',
+			edad:11,
+			ciudad:'Neiva',
+			tramo:33,
+			vehiculosAfectados:1,
+			fechaEvento:''
+		},
+		{
+			id:10,
+			tipo:'incidente',
+			categoria:'Afectado por Lesiones'
+			nombreAfectado:'Michelle Gómez',
+			edad:2,
+			ciudad:'Aipe',
+			tramo:2,
+			vehiculosAfectados:2
+		},
+		{
+			id:11,
+			tipo:'accidente',
+			categoria:'Afectado por Lesiones'
+			nombreAfectado:'Ana María Hurtado',
+			edad:79,
+			ciudad:'Neiva',
+			tramo:1,
+			vehiculosAfectados:2
+		},
+		{
+			id:12,
+			tipo:'accidente',
+			categoria:'Afectado por Lesiones'
+			nombreAfectado:'Dimas Ñañez',
+			edad:85,
+			ciudad:'Neiva',
+			tramo:1,
+			vehiculosAfectados:1
+		},
+		{
+			id:13,
+			tipo:'incidente',
+			categoria:'Afectado por Lesiones'
+			nombreAfectado:'Juana Rodriguez',
+			edad:33,
+			ciudad:'Neiva',
+			tramo:1,
+			vehiculosAfectados:1,
+			fechaEvento:''
+		},
+		{
+			id:14,
+			tipo:'incidente',
+			categoria:'Afectado por Lesiones'
+			nombreAfectado:'Melissa Fierro',
+			edad:17,
+			ciudad:'Neiva',
+			tramo:1,
+			vehiculosAfectados:1
+		},
+		{
+			id:15,
+			tipo:'accidente',
+			categoria:'Afectado por Lesiones'
+			nombreAfectado:'Antonia Pereira',
+			edad:21,
+			ciudad:'Neiva',
+			tramo:1,
+			vehiculosAfectados:1
+		},
+		{
+			id:16,
+			tipo:'accidente',
+			categoria:'Afectado por Lesiones'
+			nombreAfectado:'Camilo Cuero',
+			edad:28,
+			ciudad:'Neiva',
+			tramo:1,
+			vehiculosAfectados:1
+		}
+	]
+}

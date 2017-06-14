@@ -1,0 +1,17 @@
+<div class="container">
+	<div class="row titles">
+	  <div class="col-md-4">Nombre</div>
+	  <div class="col-md-2">Tipo de evento</div>
+	  <div class="col-md-2">Ciudad</div>
+	  <div class="col-md-2">tramo</div>
+	  <div class="col-md-2"></div>
+	</div>
+	
+	<div class="row event" ng-repeat="event in events  | orderBy:'nombreAfectado'">
+	  <div class="col-md-4">{{event.nombreAfectado}}</div>
+	  <div class="col-md-2"><span ng-class="{'type btn-warning': event.tipo === 'incidente' , 'type btn-danger': event.tipo === 'accidente' }">{{event.tipo}}</span></div>
+	  <div class="col-md-2">{{event.ciudad}}</div>
+	  <div class="col-md-2">{{event.tramo}}</div>
+	  <div class="col-md-2"><a href="/#!/incidente/{{event.id}}" class="btn btn-primary">Editar</a></div>
+	</div>	
+</div>

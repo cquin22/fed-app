@@ -1,0 +1,17 @@
+.titles{
+    padding: 12px 0;
+    font-weight: bold;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+
+.event{
+    padding: 15px 0;
+     margin-bottom: 8px;
+     border-bottom: 1px solid #ddd;
+}
+
+.type{
+    padding: 10px 15px;
+    border-radius: 5px;
+}
